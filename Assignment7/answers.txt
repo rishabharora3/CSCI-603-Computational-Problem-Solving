@@ -1,0 +1,20 @@
+Answer 1:
+    The imbalance measurement value for the original string hash function from the question 1 of the
+    problem-solving session that simply adds the values together, when we run  the following with size:
+
+     File Name               Size        Imbalance Value:
+     mb.txt                  100         15.44927536231884
+     mb.txt                  1000        15.44927536231884
+     atotc.txt               100         34.23397435897436
+     atotc.txt               1000        34.23397435897436
+
+
+Answer 2:
+    The imbalance measurement value for the improved string hash function from the question 3 of the
+    problem-solving session, when we run  the following with size:
+
+    File Name               Size        Imbalance Value:
+    mb.txt                  100         0.27767354596622895
+    mb.txt                  1000        0.2287982677733671
+    atotc.txt               100         0.22225928396708916
+    atotc.txt               1000        0.378259779338014

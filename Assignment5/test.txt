@@ -1,0 +1,6 @@
+baz
+bar
+zoo
+foo
+far
+fool

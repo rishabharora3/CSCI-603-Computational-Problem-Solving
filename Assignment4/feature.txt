@@ -1,0 +1,14 @@
+Two additional features in spellfixer.py to check for incorrect spelling:
+
+1: Removal of extra letter
+	
+	The logic will check, after removing one letter in the word at each index with the list of legal words.
+	Example: input-->  asssignment
+		output--> assignment
+
+
+2: Adjacent letter check
+
+	The logic will swap each adjacent letter in the word and check the updated word against the list of legal words.
+	Example: input--> helol
+		output--> hello
