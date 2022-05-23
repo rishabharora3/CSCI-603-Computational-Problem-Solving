@@ -1,0 +1,2 @@
+# CSCI-603ComputationalProblemSolving
+This course focuses on the application of computational thinking using a problem-centered approach. Specific topics include: expression of algorithms in pseudo-code and a programming language; elementary data structures such as lists, trees and graphs; problem solving using recursion; and debugging and testing. Assignments (both in class and homework) requiring a pseudo-code solution and implementation in a programming language are an integral part of the course.
